@@ -153,4 +153,8 @@ html {
   .hero h1 {
     font-size: 24px;
   }
+
+  .about-content {
+    margin-left: 40px;
+  }
 }
